@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist -b main"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "framer-motion": "^12.23.22",
     "motion": "^12.23.22",
     "react": "^19.1.1",

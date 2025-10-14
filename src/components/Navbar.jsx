@@ -4,7 +4,7 @@ function Navbar() {
         <ul className="flex justify-center gap-8 font-arimo text-lg uppercase"> 
             <a href="#sobre" className="text-white hover:text-slate-500">Sobre</a>
             <a href="#habilidades" className="text-white hover:text-slate-500">Habilidades</a>    
-            <a href="#" className="text-white hover:text-slate-500">Projetos</a>
+            <a href="#projetos" className="text-white hover:text-slate-500">Projetos</a>
             <a href="#" className="text-white hover:text-slate-500">Contato</a>    
         </ul>
     </div>

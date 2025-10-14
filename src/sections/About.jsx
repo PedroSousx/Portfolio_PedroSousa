@@ -14,7 +14,7 @@ function About(){
                     <div className="flex-1 w-2/5">
                         <h2 className="mx-auto text-start uppercase font-normal">Experiência</h2>
                         <div className="my-4 text-2xl border-l-2 border-slate-300 pl-4 hover:bg-slate-900 p-2 text-start">
-                            <span className="font-medium">07/25 - presente</span>
+                            <span className="font-medium ">07/25 - presente</span>
                             <h3>Desenvolvedor Full-Stack - Genexus</h3>
                             
                         </div>
